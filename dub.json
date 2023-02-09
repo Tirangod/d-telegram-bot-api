@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Lucius Seneca"
+	],
+	"copyright": "Copyright © 2023, Lucius Seneca",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "telegrambotapi"
+}
